@@ -1,8 +1,8 @@
 # European Film Industry Data Analysis – Movie Production Companies Database
-## This project showcases the development of a robust and centralized database to analyze key aspects of the European film industry, including production company structures, employee roles, movie details, and financial dynamics. It combines meticulous database design with efficient data analysis capabilities to unlock actionable insights.
+This project showcases the development of a robust and centralized database to analyze key aspects of the European film industry, including production company structures, employee roles, movie details, and financial dynamics. It combines meticulous database design with efficient data analysis capabilities to unlock actionable insights.
 
 # Key Features
-## Comprehensive Data Coverage: Captures detailed records of production companies, employee classifications (crew and staff), movies, and financial sources, including grant funding.
+Comprehensive Data Coverage: Captures detailed records of production companies, employee classifications (crew and staff), movies, and financial sources, including grant funding.
 Advanced Database Design: Utilizes Enhanced Entity-Relationship (EER) modeling and normalization to ensure efficiency, accuracy, and maintainability.
 Seamless Integration: Links MySQL with MS Access to facilitate user-friendly data querying and analysis.
 Data-Driven Insights: Provides structured datasets for detailed analysis of industry trends, workforce dynamics, and financial transactions.
